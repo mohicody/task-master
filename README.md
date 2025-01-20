@@ -27,10 +27,6 @@ A beautiful and responsive to-do list application built with vanilla JavaScript 
 2. Open `index.html` in your browser
 3. Start managing your tasks!
 
-## Screenshots
-
-[Add screenshots of your application here]
-
 ## License
 
 MIT License - feel free to use this project for personal or commercial purposes.
