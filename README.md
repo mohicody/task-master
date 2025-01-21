@@ -23,15 +23,29 @@ A beautiful and responsive to-do list application built with vanilla JavaScript 
 - Local Storage API
 - Font Awesome Icons
 
+## Screenshots
+
+### Clean Interface
+![Empty State](screenshots/empty-state.png)
+*Clean and welcoming interface when no tasks are present*
+
+### Task Management
+![Adding Tasks](screenshots/add-task.png)
+*Adding new tasks with priority levels and due dates*
+
+### Task Organization
+![Task List](screenshots/task-list.png)
+*Tasks with different states and priority levels*
+
+### Mobile Experience
+![Mobile View](screenshots/mobile-view.png)
+*Responsive design for mobile devices*
+
 ## Getting Started
 
 1. Clone the repository
 2. Open `index.html` in your browser
 3. Start managing your tasks!
-
-## Screenshots
-
-[Add screenshots of your application here]
 
 ## License
 
