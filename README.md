@@ -2,6 +2,8 @@
 
 A beautiful and responsive to-do list application built with vanilla JavaScript and modern CSS. This application allows you to manage your tasks with style and efficiency.
 
+🌐 **Live Demo**: [Task Master App](https://minimal-task-master.netlify.app/)
+
 ## Features
 
 - Add, complete, and delete tasks
@@ -26,6 +28,10 @@ A beautiful and responsive to-do list application built with vanilla JavaScript 
 1. Clone the repository
 2. Open `index.html` in your browser
 3. Start managing your tasks!
+
+## Screenshots
+
+[Add screenshots of your application here]
 
 ## License
 
