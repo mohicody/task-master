@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Task Master Icon</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#6366F1" x="0" y="0" width="32" height="32" rx="8"></rect>
+        <path d="M22,8 L10,8 C8.8954305,8 8,8.8954305 8,10 L8,22 C8,23.1045695 8.8954305,24 10,24 L22,24 C23.1045695,24 24,23.1045695 24,22 L24,10 C24,8.8954305 23.1045695,8 22,8 Z M14,19 L11,16 L12.4,14.6 L14,16.2 L19.6,10.6 L21,12 L14,19 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>
