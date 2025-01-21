@@ -39,6 +39,7 @@ A beautiful and responsive to-do list application built with vanilla JavaScript 
 
 ### Mobile Experience
 ![Mobile View](screenshots/mobile-view.png)
+
 *Responsive design for mobile devices*
 
 ## Getting Started
